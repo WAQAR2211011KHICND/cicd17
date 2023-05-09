@@ -10,6 +10,6 @@ public class CicdController {
     
     @GetMapping
     public String printHello(){
-        return "Hello! from CICD (Waqar)";
+        return "Hello from CICD (Waqar)";
     }
 }
